@@ -1,0 +1,6 @@
+C:\Users\ilan\source\repos\RestaurantManu\RestaurantManu\bin\Debug\RestaurantManu.exe
+C:\Users\ilan\source\repos\RestaurantManu\RestaurantManu\bin\Debug\RestaurantManu.pdb
+C:\Users\ilan\source\repos\RestaurantManu\RestaurantManu\obj\Debug\RestaurantManu.csproj.AssemblyReference.cache
+C:\Users\ilan\source\repos\RestaurantManu\RestaurantManu\obj\Debug\RestaurantManu.csproj.CoreCompileInputs.cache
+C:\Users\ilan\source\repos\RestaurantManu\RestaurantManu\obj\Debug\RestaurantManu.exe
+C:\Users\ilan\source\repos\RestaurantManu\RestaurantManu\obj\Debug\RestaurantManu.pdb
